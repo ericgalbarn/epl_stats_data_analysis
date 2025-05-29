@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791.svg)](https://www.postgresql.org/)
 [![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange.svg)](https://public.tableau.com/app/profile/duc.nguyen1276/viz/Book1_17478807453250/Dashboard1)
-[![Data](https://img.shields.io/badge/Data-1993--2025-green.svg)](#)
+[![Data](https://img.shields.io/badge/Data-1993--2025-green.svg)](https://www.kaggle.com/datasets/ajaxianazarenka/premier-league/data)
 
 > **A comprehensive data analytics platform addressing three critical business questions: home advantage dynamics, team playing style effectiveness, and high-value match identification across over three decades of Premier League football.**
 
